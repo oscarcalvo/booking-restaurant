@@ -1,7 +1,8 @@
-.import { BookingServiceZoneDTO } from "./bookingServiceZoneDTO";
+import { BookingServiceZoneDTO } from "./bookingServiceZoneDTO";
 import { BookingAvailabity } from "./utils/bookingAvailability";
 import { DayOfWeek } from "./utils/dayOfWeek";
 import "./utils/generalExtensions";
+
 export class BookingServiceDTO {
   id?: number;
   createdAt: Date;
