@@ -15,6 +15,7 @@ Design or logic of the component is not important
 
 ## resources
 https://github.com/davidjbradshaw/iframe-resizer
+
 https://blog.jenyay.com/web-ui-widget/
 
 Company that currently uses iframe (if you need see it working):https://www.covermanager.com/ and if you click in some of theirs clients you can see an implementation for example https://www.espacio33.es/reserva-online
